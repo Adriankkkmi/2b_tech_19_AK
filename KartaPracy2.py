@@ -25,3 +25,29 @@
 #   print ("tak ")
 # else:
 #   print ("nie ")
+
+# # Zad 5 
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if a<c<b or b<c<a: 
+#   print ("tak")
+# else:
+#   print("nie ")
+
+# Zad 6
+# a = int(input())
+# p = int(input())
+# if (a ** p - a )% p==0:
+#   print ("spełnia ")
+# else:
+#   print("nie spełnia")
+
+# Zad 7 
+# p = int(input())
+# k = int(input())
+# s = int(input())
+# if k - p <= 3*s:
+#    print ("tak")
+# else:
+#   print("nie ")
