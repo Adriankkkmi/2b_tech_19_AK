@@ -33,3 +33,28 @@
 #   print("tak k+m")
 
 # Zad 4 
+# a, b, c, d = int(input()), int(input()), int(input()), int(input())
+# if a<b and a<c and a<d:
+#   print ("a jest najmniejsze")
+# elif b<a and b<c and b<d :
+#   print ("B jest najmniejsze")
+# elif c<a and c<b and c<d :
+#   print ("c jest najmniejsze")
+# elif d<a and d<b and b<c:
+#   print ("d jest najmniejsze")
+
+# Zad 5 
+# a, b, c = int(input()), int(input()), int(input())
+# if a+b>c and a+c>b and b+c>a:
+#   print ("można zbudowac trójkąt")
+# else:
+#   print ("nie mozńa zbvudować")
+
+# Zad 6 
+# a, b, c = int(input()), int(input()), int(input())
+# if a**2 + b**2 == c**2:
+#   print ("prostokątny")
+# elif c**2 < a**2 + b**2:
+#   print ("ostrokątny")
+# elif c**2 > a**2 + b**2 :
+#   print ("rozwartokątny ")
