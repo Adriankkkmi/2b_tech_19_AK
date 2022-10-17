@@ -1,7 +1,7 @@
-# # Zad 1 
+# Zad 1 
 # a = int(input())
 # b = int(input())
-# if ((a + b ) % 2) ==0 :
+# if ((a + b ) % 2) == 0 :
 #   print ("parzysta")
 # else:
 #   print ("nieparzysta")
@@ -57,4 +57,4 @@
 # elif c**2 < a**2 + b**2:
 #   print ("ostrokątny")
 # elif c**2 > a**2 + b**2 :
-#   print ("rozwartokątny ")
+#   print ("rozvwartokątny ")
