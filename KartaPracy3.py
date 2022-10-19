@@ -19,9 +19,23 @@
 # for n in range (15, 32, 2): 
 #   print (n)
 
-# for n in range (100, 0, -1 ):
-#   print (n)
+# for n in range (10, 100, 1 ):
+#   print (109-n)
   
-# for 
+# for n in range (100,1000, 20):
+#   print (n end = "-")
 
 
+
+# # Zad 1
+# n = int(input())
+# for n in range (n):
+#   print (n**3 + 3, end =" " )
+
+# # Zad 2 
+# for n in range (100, 1000, 15):
+#   print (n, end=" ")
+
+# for n in range (100, 1000,):
+#   if n % 15 ==0 
+#  print (n, end=" ")

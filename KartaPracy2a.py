@@ -26,11 +26,11 @@
 # Zad 3
 # k, l, m = int(input()), int(input()), int(input())
 # if k==l :
-#    print ("tak k +l")
+#    print ("tak k + l")
 # elif  l==m :
-#   print("tak l+m ")
+#   print("tak l + m ")
 # elif k==m:
-#   print("tak k+m")
+#   print("tak k + m")
 
 # Zad 4 
 # a, b, c, d = int(input()), int(input()), int(input()), int(input())
