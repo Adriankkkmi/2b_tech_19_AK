@@ -39,3 +39,25 @@
 # for n in range (100, 1000,):
 #   if n % 15 ==0 
 #  print (n, end=" ")
+
+
+# Zad 3
+# print("zadanie 3")
+# p = int(input("podaj liczbę"))
+# for n in range(1, p+1 ):
+#   if p % n == 0: 
+#     print (n)
+
+# Zad 4 
+# suma = 0 
+# for n in range(10, 100):
+#   suma += n 
+# print (suma)
+
+# Zad 5 
+n = int(input("podaj liczbę naturalną "))
+
+for n in range(n-1):
+  i = int(input())
+
+  print (n)

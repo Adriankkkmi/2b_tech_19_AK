@@ -77,5 +77,5 @@ print("Zadanie 10")
 for n in range(1, 1000):
   if i - (i//10)*10 == math.sqrt(n):
      print(n)
-    else i - (i//100)*100 == math.sqrt(n) 
+    else i - (i//100)*100 == math.sqrt(n): 
 print(n )
