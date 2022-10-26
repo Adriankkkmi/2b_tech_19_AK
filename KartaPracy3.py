@@ -55,9 +55,34 @@
 # print (suma)
 
 # Zad 5 
-n = int(input("podaj liczbę naturalną "))
 
-for n in range(n-1):
-  i = int(input())
+# n = int(input("W ile gramy "))
+# suma = ((n+1)*n) // 2
 
-  print (n)
+# for i in range(n-1):
+#   a = int(input())
+#   suma = suma - a
+# print (suma)
+
+
+# Zad 6
+
+# for n in range(1, n + n ):
+
+#   print(n)
+
+
+
+
+# napisz pętle sumującą liczby dwu cyfrowe parzyste 
+# suma = 0
+# for n in range (10, 100, 2):
+#   suma += n 
+# print ("suma parzystych liczb dwucyfrowych ", suma)
+
+
+
+
+
+
+
