@@ -52,11 +52,15 @@
 # print (suma)
 
 # Zad 8 
-
-
-
-
-
+# W0 = int(input("Początkowa wartość inwenstycji  "))
+# L = int(input("na ile lat ma być ta inwestycja  "))
+# WK = 0
+# suma = WK
+# for n in range (0, L * 12):
+#   WK = suma * 0.06 * (1//12)
+#   suma = suma + WK
+# print ("koncowa wartosć inwestycji " )
+# print (suma)
 
 
 # Zad 9 
@@ -72,10 +76,10 @@
 # print ( suma )
 
 #   #Zad 10
-import math 
-print("Zadanie 10")
-for n in range(1, 1000):
-  if i - (i//10)*10 == math.sqrt(n):
-     print(n)
-    else i - (i//100)*100 == math.sqrt(n): 
-print(n )
+# import math 
+# print("Zadanie 10")
+# for n in range(1, 1000):
+#   if i - (i//10)*10 == math.sqrt(n):
+#      print(n)
+#     else i - (i//100)*100 == math.sqrt (n): 
+# print(n )
