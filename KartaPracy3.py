@@ -81,8 +81,10 @@
 # print ("suma parzystych liczb dwucyfrowych ", suma)
 
 
-
-
-
-
-
+# zad 6 
+n = int(input("podaj liczby  "))
+a = 0
+b = 1 
+for i in range(n):
+  a, b = b, a + b  
+print (b)
