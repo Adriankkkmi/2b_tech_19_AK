@@ -22,5 +22,3 @@
 #     print ("--" * i, end = " ")
 #   else: 
 #     print ("|"* i , end = " ")
-
-# zad 7 
