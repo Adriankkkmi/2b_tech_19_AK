@@ -27,10 +27,11 @@
 
 
 
-# # Zad 1
-# n = int(input())
-# for n in range (n):
-#   print (n**3 + 3, end =" " )
+# Zad 1
+n = int(input())
+
+for i in range(n):
+    print(i**3 + 3, end=" ")
 
 # # Zad 2 
 # for n in range (100, 1000, 15):
@@ -82,9 +83,9 @@
 
 
 # zad 6 
-n = int(input("podaj liczby  "))
-a = 0
-b = 1 
-for i in range(n):
-  a, b = b, a + b  
-print (b)
+# n = int(input("podaj liczby  "))
+# a = 0
+# b = 1 
+# for i in range(n):
+#   a, b = b, a + b  
+# print (b)

@@ -39,7 +39,7 @@
 # print("Zadanie 6")
 # n=int(input())
 # suma = 0 
-# for n in range (2, n*2, 2):
+# for n in range (2, n*2+1, 2):
 #   suma += n 
 # print (suma)
 
