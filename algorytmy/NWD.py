@@ -14,6 +14,16 @@
 #   a, b = b, a%b 
 #   print (a)
 
+#inna wersja
+# a, b = int(input()), int(input())
+# iloczyn = a * b
+# while b > 0:
+#     a, b = b, a % b
+# nwd = a
+# print(iloczyn // nwd)
+
+
+
 
 
 # # NWW - odej omwanie
@@ -28,10 +38,12 @@
 # d = c / a  
 # print ("NWW", d)\
 
+# NWW modulo
+# a, b = int(input()), int(input())
 
-a = int(input())
-b = int(input())
-while b>0:
-  a, b = b, a%b 
-NWD = a 
-print(a)
+# iloczyn = a * b
+# while b > 0:
+#     a, b = b, a % b
+# nwd = a
+
+# print(iloczyn // nwd)
