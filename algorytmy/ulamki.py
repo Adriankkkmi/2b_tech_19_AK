@@ -11,4 +11,3 @@ e = (nww // b) * a
 t = (nww // d) * c 
 g = e + t
 print (f" {a} / {b} +  {c}/{d} = {e}/{nww} + {t}/{nww} = {g}/{nww}")
-
