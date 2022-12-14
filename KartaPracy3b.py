@@ -26,7 +26,7 @@
 #   if n % 5 == 0 and n % 6 == 0 and n % 11 == 0:
 #     print (n )
 
-# Zad 5
+#Zad 5
 # print("Zadanie 5")
 # n=int(input())
 # suma=0
@@ -36,12 +36,12 @@
 # print (suma)
 
 # # Zad 6
-# print("Zadanie 6")
-# n=int(input())
-# suma = 0 
-# for n in range (2, n*2+1, 2):
-#   suma += n 
-# print (suma)
+print("Zadanie 6")
+n=int(input())
+suma = 0 
+for n in range (2, n*2+1, 2):
+  suma += n 
+print (suma)
 
 # Zad 7 
 # print("Zadanie 7")
