@@ -15,3 +15,38 @@
 # print("liczba jest pierwsza")
 
 #zad3
+# suma = 0
+# a = int(input())
+# for i in range( 1, a):
+#   if a % i == 0 
+#   suma += i 
+# if suma == a :
+#   print("tak")
+# else:
+#   print ("nie")
+
+# zad 4 
+# a, b = int(input()), int(input())
+# while a != b :
+#   if a > b : a = a - b 
+#   if b > a : b = b - a 
+# if a == 1:
+#   print ("TAK")
+# else: 
+#   print ("nie")
+
+#zad 5 
+# m = int(input())
+# lista = ""
+# for i in range(10,20):
+#     x = i
+#     y = m
+#     while y != x:
+#         if x > y : x = x - y
+#         if y > x : y = y - x
+#     if x == 1:
+#         lista += f"{i}\n"
+# print(lista)
+
+#zad 6
+a, b = int(input()), int(input())
