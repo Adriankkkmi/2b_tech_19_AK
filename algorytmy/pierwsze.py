@@ -5,7 +5,7 @@
 #   if n % i == 0 :
 #     print("lizcba nie jest pierwsza ")
 #     exit(0)
-# print("liczba jest pierwsza")85
+# print("liczba jest pierwsza")
 
 
 

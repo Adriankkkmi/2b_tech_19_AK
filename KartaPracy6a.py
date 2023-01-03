@@ -48,5 +48,32 @@
 #         lista += f"{i}\n"
 # print(lista)
 
+# zad 5 dwie wersje
+# X = int(input("P))
+# for Y in range(10,20):
+#     x = X
+#     y = Y
+#     while x != y:
+#         if x > y:
+#             x -= y
+#         else:
+#             y -= x
+#     if x == 1:
+#         print(Y)
+
 #zad 6
-a, b = int(input()), int(input())
+# a, b = int(input()), int(input())
+# for i in range(min(a,b), 1, -1):
+#     if a % i == 0 and b % i == 0:
+#         a, b = a // i, b // i
+# print(f"{a}/{b}")
+
+#zad7
+# a, b = int(input()), int(input())
+# cal = a // b
+# a -= cal * b
+# for i in range(a, 1, -1):
+#     if a % i == 0 and b % i == 0:
+#         a, b = a / i, b / i
+# print(f"{cal}  {int(a)}/{int(b)}")
+
