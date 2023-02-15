@@ -46,4 +46,7 @@
 #     a, b = b, a % b
 # nwd = a
 
-# print(iloczyn // nwd)
+# print(iloczyn // nwd
+
+
+

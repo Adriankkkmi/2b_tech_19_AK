@@ -1,5 +1,5 @@
 #PRE
-# from math import gcd
+
 # print(gcd(20,15))
 
 # 1. Wybór dużych liczb pierwszych
