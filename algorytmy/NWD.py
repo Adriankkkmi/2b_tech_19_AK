@@ -22,6 +22,7 @@
 # nwd = a
 # print(iloczyn // nwd)
 
+from math import gcd
 
 
 
