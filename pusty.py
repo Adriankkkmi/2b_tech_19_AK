@@ -1,18 +1,20 @@
-# #zad 1.1
-# a = int(input())
-# b = int(input())
-# S1 = 0
-# S2 = 0 
-# for i in range (1, a ):
-#   if a%i == 0 :
-#     S1 += i
+# T =[50,20,10,5,2,1]
+# T.sort(reverse=True)
+# x= int(input("Reszta :"))
+# for i in T:
+#   ilość = x // i 
+#   if ilość > 0:
+#     x - x - ilość * i 
+#     print (f"{ilość} razy {i}")
 
-# for u in range (1, b ):
-#   if b % u == 0 :
-#     S2 += u
-
-# if S1 == b +1 and S2 == a +1 :
-#   print ("tak ")
-# else :
-#   print("nie")
-
+T =[50,20,10,5,2,1]
+T.sort(reverse=True)
+w = []
+x= int(input("Reszta :"))
+for i in T:
+  ilość = x // i 
+  if ilość > 0:
+    x - x - ilość * i 
+    for j in range(ilość):
+      W.append(i)
+print(W)
