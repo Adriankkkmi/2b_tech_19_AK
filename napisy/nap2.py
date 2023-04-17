@@ -41,3 +41,9 @@
 # print(s, L)
 # L.sort()
 # print(s, L)
+
+a =input()
+
+L = list(a)
+x = L.count(A )
+print (x)
